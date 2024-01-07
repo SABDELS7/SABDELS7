@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mantratec.com%2FResearch-and-Development%2FEmbedded-Software-Engineering&psig=AOvVaw09Ryqx36ootLwdB0zRb7Bd&ust=1704755445452000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiX2MfAzIMDFQAAAAAdAAAAABA4)
+![MasterHead](https://www.mantratec.com/Images/all-page-hader/Embedded-Software-Engineering.jpeg)
 <h1 align="center">Hi 👋, I'm Abderrahmane Salmi</h1>
 <h3 align="center">A passionate full-stack developer from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
