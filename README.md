@@ -1,4 +1,4 @@
-![MasterHead](https://www.mantratec.com/Images/all-page-hader/Embedded-Software-Engineering.jpeg)
+![MasterHead](https://cdn.discordapp.com/attachments/1066118628556156988/1201935305679327282/Blue_Modern_Corporate_Staff_Profile_LinkedIn_Banner.png?ex=65cba07b&is=65b92b7b&hm=c68f21b27f977e174cead2a6ba9c203dfcc1b5667572a05906c639e9852fb92f&)
 <h1 align="center">Hi 👋, I'm Abderrahmane Salmi</h1>
 <h3 align="center">A passionate full-stack developer from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
