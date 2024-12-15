@@ -1,4 +1,4 @@
-![MasterHead](file:///C:/Users/DELL%20XPS/OneDrive/Pictures/Screenshot_20241215_154137_LinkedIn.jpg)
+![MasterHead](https://media.gettyimages.com/id/1266427090/vector/software-development-and-programming-program-code-on-laptop-screen.jpg?s=612x612&w=0&k=20&c=vkrDIDoBFWYopWts_xtARNNDb4TRPitSn5xtdM8jgnY=)
 <h1 align="center">Hi 👋, I'm Salmi Abderrahmane</h1>
 <h3 align="center">A passionate full-stack developer from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
